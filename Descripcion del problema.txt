@@ -1,0 +1,2 @@
+En este proyecto se solicito relizar un programa para realizar cotizaciones automaticas para la aseguradora TK-U la cual reporto no poder atender de manera eficiente ni efectiva a los cientos de cotizaciones que se les solicita diariamente por sus potenciales clientes, ya que dichas cotizaciones se realizan de forma manual lo cual limita el numero de cotizaciones a un maxico de 50 por dia.
+Con todo lo anterior se estiman perdidas de potenciales clientes por lo cual se cuenta con la implementacion de un sistema de cotizacion automatizado.

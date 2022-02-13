@@ -1,0 +1,28 @@
+Inicio
+solicitar nombre
+solicitar edad
+comprobar si edad >= 18
+Preguntar si esta casado/a
+Si esta casado/a preguntar la edad del conyuge
+Convertir la edad a numero
+Si esta casado/a convertir la edad del conyuge
+Preguntar si tiene hijos
+Comprobar la cantidad de hijos solamente si los tiene
+Convertir la cantidad de hijos a numero
+Preguntar cuantas propiedades tiene
+Convertir la cantidad de propiedades a numero
+Preguntar la cantidad de ingreso
+Convertir la cantidad de ingreso a numero
+Calcular el recargo por edad en el rango de 18 - 24 años
+Calcular el recargo por edad en el rango de 24 - 49 años
+Calcular el recargo por edad en el rango de 50 años en adelante
+Calcular el recargo por edad del conyuge en el rango de 18 - 24 años
+Calcular el recargo por edad del conyuge en el rango de 25 - 49 años
+Calcular el recargo por edad del conyuge en el rango de 50 años en adelante
+Calcular el recargo por la cantidad de hijos
+Calcular el recargo por la cantidad de ingresos
+Sumar los recargos acumulados mas el precio base para obtener el precio final
+Mostrar el nombre
+Mostrar el recargo total
+Mostrar el precio de la cotizacion
+Preguntar si desea salir.
